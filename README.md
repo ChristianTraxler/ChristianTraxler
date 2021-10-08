@@ -1,6 +1,6 @@
 ![IMG_8813](https://user-images.githubusercontent.com/19829304/136596486-572289d7-ed7e-429e-b33c-56642330d46c.GIF)
 
-Hi there 👋
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **ChristianTraxler/ChristianTraxler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
