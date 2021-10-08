@@ -4,6 +4,11 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 Here are some ideas to get you started:
 -->
+I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a Full Stack Developer 👨🏻‍💻. I am from North Carolina, USA.
+<br>
+
+**Some things to know about me**:
+- 👨🏻‍🎓 I have a Bachelor's degree in Web Design and Development from DeVry Univeristy.
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning in depth HTML/CSS with Devslopes Academy.
 - 👯 I’m looking to collaborate on future projects when I'm ready!
