@@ -23,8 +23,10 @@ I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a 
 
 <br>
 
-![IMG_8813](https://user-images.githubusercontent.com/19829304/136596486-572289d7-ed7e-429e-b33c-56642330d46c.GIF)
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
+<br>
+<!-- ![IMG_8813](https://user-images.githubusercontent.com/19829304/136596486-572289d7-ed7e-429e-b33c-56642330d46c.GIF) -->
+<hr>
 ---
 
 👨🏻‍💻 Languages
