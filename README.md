@@ -4,7 +4,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 Here are some ideas to get you started:
 -->
-I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a Full Stack Developer 👨🏻‍💻. I am currently located in North Carolina, USA.
+I'm Christian, a student 👨🏻‍🎓 at Devslopes Web Academy, working to become a Full Stack Developer 👨🏻‍💻. I am currently located in North Carolina, USA.
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
