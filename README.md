@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - CEO of [Developer Of Code LLC](https://developerofcode.com/#home)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: 
-- &nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com
-- &nbsp; &nbsp; &nbsp;  🐦 [Developer Of Code LLC](https://twitter.com/DeveloperOfCode)
+- 📫 How to reach me: <br>
+&nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com <br>
+&nbsp; &nbsp; &nbsp;  🐦 [Developer Of Code LLC](https://twitter.com/DeveloperOfCode)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
