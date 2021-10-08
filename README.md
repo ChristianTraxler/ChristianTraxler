@@ -19,7 +19,8 @@ I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a 
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <br>
 &nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com <br>
-&nbsp; &nbsp; &nbsp;  🐦 [Developer Of Code LLC](https://twitter.com/DeveloperOfCode)
+&nbsp; &nbsp; &nbsp;   🐦 [Twitter](https://twitter.com/DeveloperOfCode) <br>
+&nbsp; &nbsp; &nbsp;   👔 [LinkedIn](https://www.linkedin.com/in/christiantraxler5287/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
