@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 :fist_right: :fist_left: Groups
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 <!-- <img src="{BadgeURLHere}" /> -->
 ---
