@@ -10,7 +10,7 @@ I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
 
 **Some things to know about me**:
-- 👨🏻‍🎓 I have a Bachelor's degree in Web Design and Development from DeVry Univeristy (Magna Cum Laude).
+- 👨🏻‍🎓 Graduated with a bachelor's degree in Web Design and Development from DeVry Univeristy (Magna Cum Laude).
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning in depth HTML/CSS with Devslopes Academy.
 - 👯 I’m looking to collaborate on future projects when I'm ready!
