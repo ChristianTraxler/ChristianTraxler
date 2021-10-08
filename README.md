@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a Full Stack Developer 👨🏻‍💻. I am from North Carolina, USA.
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
+
 **Some things to know about me**:
 - 👨🏻‍🎓 I have a Bachelor's degree in Web Design and Development from DeVry Univeristy.
 - 🔭 I’m currently working on improving my coding skills.
@@ -25,7 +27,7 @@ I am Christian, a 👨🏻‍🎓 at Devslopes Web Academy, working to become a 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" /> -->
 
-![IMG_8813](https://user-images.githubusercontent.com/19829304/136596486-572289d7-ed7e-429e-b33c-56642330d46c.GIF)
+<!-- ![IMG_8813](https://user-images.githubusercontent.com/19829304/136596486-572289d7-ed7e-429e-b33c-56642330d46c.GIF) -->
 
 ---
 
