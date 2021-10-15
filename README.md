@@ -1,3 +1,8 @@
+<a href="https://mobile.twitter.com/DeveloperOfCode">
+  <img align="left" alt="Twitter" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" />
+</a>
+<br><br>
+
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 **ChristianTraxler/ChristianTraxler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +24,7 @@ I'm Christian, a student 👨🏻‍🎓 at Devslopes Web Academy, working to be
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <br>
 &nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com <br>
-&nbsp; &nbsp; &nbsp;   🐦 [Twitter](https://twitter.com/DeveloperOfCode) <br>
+&nbsp; &nbsp; &nbsp;  <img align="center" alt="Twitter" width="20px"  src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" /> [Twitter](https://twitter.com/DeveloperOfCode) <br>
 &nbsp; &nbsp; &nbsp;   👔 [LinkedIn](https://www.linkedin.com/in/christiantraxler5287/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
