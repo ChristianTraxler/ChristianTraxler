@@ -17,7 +17,7 @@ I'm Christian, a student 👨🏻‍🎓 at Devslopes Web Academy, working to be
 **Some things to know about me**:
 - 👨🏻‍🎓 Graduated with a bachelor's degree in Web Design and Development from DeVry University (Magna Cum Laude).
 - 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning in depth HTML/CSS with Devslopes Academy.
+- 🌱 I’m currently learning in-depth HTML/CSS with Devslopes Academy.
 - 👯 I’m looking to collaborate on future projects when I'm ready!
 - CEO of [Developer Of Code LLC](https://developerofcode.com/#home)
 <!-- - 🤔 I’m looking for help with ...
