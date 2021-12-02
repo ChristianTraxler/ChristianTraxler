@@ -58,7 +58,7 @@ Desired languages to learn
 :fist_right: :fist_left: Groups 
 <br>
 
-<img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=ffffff" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 ---
 
