@@ -25,13 +25,7 @@ I'm Christian, a student 👨🏻‍🎓 at Devslopes Web Academy, working to be
 - 📫 How to reach me: <br>
 &nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com <br>
 &nbsp; &nbsp; &nbsp;  <img align="center" alt="Twitter" width="20px"  src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" /> [Twitter](https://twitter.com/DeveloperOfCode) <br>
-&nbsp; &nbsp; &nbsp;  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
-<path fill="#096ea3" d="M19.34 22H4.66C3.19 22 2 20.81 2 19.34V4.66C2 3.19 3.19 2 4.66 2H19.33C20.81 2 22 3.19 22 4.66V19.33C22 20.81 20.81 22 19.34 22Z" undefined="1.5"></path>
-<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" stroke="#ffffff" d="M7 10V17"></path>
-<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" stroke="#ffffff" d="M17 17C17 17 17 12.45 17 12.44C17 11.87 17.03 11.21 16.76 10.69C16.16 9.50999 14.57 10.11 13.72 10.6C12.84 11.1 12.04 11.74 11.28 12.4C11.19 12.48 11.09 12.57 11 12.65V10.01V17"></path>
-<path fill="#7D55FF" d="M7 7C7.27614 7 7.5 6.77614 7.5 6.5C7.5 6.22386 7.27614 6 7 6C6.72386 6 6.5 6.22386 6.5 6.5C6.5 6.77614 6.72386 7 7 7Z" undefined="1.5"></path>
-<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" stroke="#ffffff" d="M7 7C7.27614 7 7.5 6.77614 7.5 6.5C7.5 6.22386 7.27614 6 7 6C6.72386 6 6.5 6.22386 6.5 6.5C6.5 6.77614 6.72386 7 7 7Z"></path>
-</svg> [LinkedIn](https://www.linkedin.com/in/christiantraxler5287/)
+&nbsp; &nbsp; &nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/christiantraxler5287/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
