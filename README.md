@@ -26,6 +26,7 @@ I'm Christian, a student 👨🏻‍🎓 at Devslopes Web Academy, working to be
 &nbsp; &nbsp; &nbsp;   📧 ChristianTraxler@iCloud.com <br>
 &nbsp; &nbsp; &nbsp;   <img align="center" alt="Twitter" width="20px" src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" /> [Twitter](https://twitter.com/DeveloperOfCode) <br>
 &nbsp; &nbsp; &nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/christiantraxler5287/)
+[linkedin logo_icon]
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
